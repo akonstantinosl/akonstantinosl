@@ -6,6 +6,7 @@ I'm a **Software Developer** with expertise spanning database management, data a
 
 I specialize in:
 - Backend and frontend web development
+- Mobile app development
 - Database design and administration
 - Data analysis and scientific computing
 - Machine learning implementation
