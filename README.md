@@ -11,6 +11,8 @@ I specialize in:
 - Data analysis and scientific computing
 - Machine learning implementation
 
+📫 How to reach me: [Email](mailto:zainnoemann@gmail.com)
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -52,12 +54,6 @@ I specialize in:
 - **Quality Assurance**: Ensuring software reliability and performance
 - **System Analysis**: Evaluating business requirements and designing system solutions
 
----
-
-### 📫 How to reach me:
-
-- [Email](mailto:iekonstantinoslambrou@gmail.com)
-- [LinkedIn](https://linkedin.com/in/akonstantinosl)
 
 ---
 
